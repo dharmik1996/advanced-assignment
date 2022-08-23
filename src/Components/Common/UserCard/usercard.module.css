@@ -1,0 +1,33 @@
+.marginCard{
+    margin: 15px !important;
+}
+
+.defaultBackground{
+    background-color: #F5F5F5 ;
+}
+
+.textCenter{
+    text-align: center;
+}
+
+.iconSize{
+    font-size:20px !important;
+}
+
+.icons{
+    font-size: 18px !important;
+}
+
+.like{
+    color: red !important;
+}
+
+.flex{
+    display: flex !important;
+    flex-direction: row !important;
+}
+
+.cardText{
+    margin-left: 10px !important;
+    margin-bottom: 5px !important;
+}
